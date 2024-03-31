@@ -23,7 +23,7 @@ Number Guesser is a simple game where the player tries to guess a randomly gener
 2. Open the `index.html` file in your web browser.
 3. Start playing the game by entering your guess in the input field and clicking the "Guess" button.
 
-###Direct Link to the Game: [Number-Guesser]('https://pc9350.github.io/Number-Guesser/')
+###Direct Link to the Game: [Number-Guesser](https://pc9350.github.io/Number-Guesser/)
 
 ## Screenshots
 ![Game screenshot](./number-guesser.png)
